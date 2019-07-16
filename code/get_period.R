@@ -1,4 +1,4 @@
-sector <- '9'
+sector <- 9
 fs <- list.files(paste0('S',sector),pattern='Robj',full.name=TRUE)
 tmp <- c()
 k <- 0
