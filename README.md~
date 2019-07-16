@@ -1,4 +1,4 @@
-# TESSlc
+# TESSlc (The periodicity in TESS light curve)
 ## Description of files
 ### S7/ and S9/
 These directories store some of the outputs from code/calPeriodogram.R
